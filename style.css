@@ -1,0 +1,23 @@
+body {
+  background-image: url('https://images6.alphacoders.com/431/431411.jpg');
+  -webkit-background-size:;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-color: black;
+  color: yellow;
+  text-align: center;
+  font-family: 'Baloo Bhaina';
+  font-size: 20px;
+  margin-top: 10px;
+  line-height: 78%;
+  text-shadow: 2px 2px 2px black;
+}
+
+h1 {
+ font-size: 40px;
+  font-family: 'Yatra One';
+}
+
+p {
+  text-indent: 10px;
+}
